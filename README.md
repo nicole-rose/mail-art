@@ -1,13 +1,15 @@
 # Mail Art Final Project
-## File Map 
+
 ### Results
 ### *visit [http://nicole-rose.github.io/mail-art-vis](http://nicole-rose.github.io/mail-art-vis) to view interactive network*
 
+#### /network_visualization
 > PDF of presentation
 >
 > Snapshot of network
 >
 > Cytoscape network file 
+## File Map 
 
 ### Part 1: Web Scraping:
 #### /scrapers
