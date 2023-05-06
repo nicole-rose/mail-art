@@ -9,7 +9,7 @@
 *buffalo_scrape.py* 
 > scraped pages from University of Buffalo + visited pages to scrape artwork info
 >
-#### //saic_scrapers
+#### /saic_scrapers
 *saic_1_pages.py*
 > scraped pages to visit 
 >
@@ -19,7 +19,7 @@
 *saic_3_info.py*
 > visited pages with errors 
 >
-#### ///saic_temp_res
+#### /saic_temp_res
 *saic_pages_all.json*
 > list of all saic artwork pages
 >
