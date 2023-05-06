@@ -1,5 +1,14 @@
 # Mail Art Final Project
 ## File Map 
+### Results
+> PDF of presentation
+>
+> Snapshot of network
+>
+> Cytoscape network file 
+#### /web_view
+*index.html*
+> open index.html file to view and interact with network in web browser
 
 ### Part 1: Web Scraping:
 #### /scrapers
