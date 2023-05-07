@@ -1,7 +1,7 @@
 # Mail Art Final Project
 
 ### Results
-### *visit [http://nicole-rose.github.io/mail-art-vis](http://nicole-rose.github.io/mail-art-vis) to view interactive network*
+### *Visit [http://nicole-rose.github.io/mail-art-vis](http://nicole-rose.github.io/mail-art-vis) to view interactive network*
 
 #### /documentation
 > PDF of presentation
